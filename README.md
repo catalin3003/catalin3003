@@ -24,6 +24,12 @@ I'm a Senior React Native and React Engineer, as well as an Engineering Leader, 
 
 <!--START_SECTION:waka-->
 
+```txt
+Total Time: 8 mins
+
+Other   8 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ### 🛠️ Languages and Tools :
