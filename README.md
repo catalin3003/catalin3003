@@ -27,7 +27,7 @@ I'm a Senior React Native and React Engineer, as well as an Engineering Leader, 
 ```txt
 Total Time: 8 mins
 
-Other   8 mins          █████████████████████████   100.00 %
+Other   8 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
