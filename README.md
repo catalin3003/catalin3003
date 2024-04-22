@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Cat 🐈
+# 👋 Hi there, I'm Cat 🐈
 
 I'm a Senior React Native and React Engineer, as well as an Engineering Leader, with a passion for developing scalable and robust applications. My expertise in leading cross-functional teams has enabled me to turn complex challenges into seamless, user-friendly solutions, making a significant impact in the tech for good and sustainability sectors.
 
@@ -7,15 +7,15 @@ I'm a Senior React Native and React Engineer, as well as an Engineering Leader, 
 - 👯 I’m looking to collaborate on innovative projects that make a difference.
 - 🤔 I’m looking for help with exploring advanced architectural patterns.
 - 💬 Ask me about anything related to React/React Native development, project management, or team leadership.
-- 📫 How to reach me: cat@catcodes.com
+- 📫 How to reach me: <cat@catcodes.com>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I'm probably DIY-ing something around the house or exploring urban agriculture innovations.
 
-### Connect with me
+## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/catalin-magirescu) | [Portfolio](https://iamcat.co.uk) | [Innovations](https://catapps.co.uk)
 
-### :octocat: My GitHub Stats
+## :octocat: My GitHub Stats
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/catalin3003/gh-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview">
@@ -37,7 +37,7 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
@@ -56,11 +56,11 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### ⚙️ What I'm working on
+## ⚙️ What I'm working on
 
 I'm deeply committed to creating scalable solutions for the tech for good and sustainability sectors, with [🌱 Plantopia Farm](https://plantopia.farm) being a cornerstone project in my portfolio. This initiative is not just a project; it's a testament to how technology can be harnessed to make significant strides in sustainable living and urban agriculture. My work with [😻 Cat Apps](https://catapps.co.uk) [:octocat:](https://github.com/Cat-Apps) is aimed at leveraging cutting-edge technology to revolutionize various sectors, integrating advanced technology with everyday needs, and making a tangible difference in the world.
 
-### 👀 Looking forward
+## 👀 Looking forward
 
 I'm always on the lookout for new challenges and opportunities to grow. My journey is about more than just developing new software solutions; it's about leading teams to success, contributing to the tech community, and making a lasting impact through innovation and strategic execution.
 
@@ -68,13 +68,13 @@ I'm always on the lookout for new challenges and opportunities to grow. My journ
 
 Thanks for stopping by! Feel free to reach out if you have any questions or just want to connect.
 
-### 😹 Enjoy joke of the day
+## 😹 Enjoy joke of the day
+
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
 </p>
 
 <p align="center">
-  You're not just another visitor, you're the special one with this unique profile view number:<br>
+  You're not just another visitor, you're the special one with this unique profile view number: </br>
   <img src="https://profile-counter.glitch.me/catalin3003/count.svg" alt="Profile View Count">
 </p>
-
