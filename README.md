@@ -38,12 +38,13 @@ I'm a Senior React Native and React Engineer, as well as an Engineering Leader, 
   <a href="https://iamcat.co.uk" target="_blank" rel="noreferrer">
     <img src="./public/icons/socials/linkedin.svg" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mentorcruise.com/mentor/catalinmagirescu/">
+  <a href="https://mentorcruise.com/mentor/catalinmagirescu/" target="_blank" rel="noreferrer">
     <img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="20%" alt="MentorCruise Banner">
   </a>
-  <!-- <a href="https://mentorcruise.com/mentor/catalinmagirescu/">
+  <!-- <a href="https://mentorcruise.com/mentor/catalinmagirescu/" target="_blank" rel="noreferrer">
     <img src="https://mentorcruise.com/mentor/catalinmagirescu/widget/" loading="lazy" width="16%" alt="MentorCruise Stats">
   </a> -->
+  </br></br>
 
 ## :octocat: My GitHub Stats
 
@@ -71,7 +72,7 @@ JSON         5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <p><strong>Core Web and Scripting Technologies</strong></p>
+  <p><strong>Core Web and Scripting Technologies</strong></p></br>
   <img src="./public/icons/skills/catapps.svg" title="Cat Apps" alt="Cat Apps" width="40" height="40"/>&nbsp;
   <img src="./public/icons/skills/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="./public/icons/skills/react-native.png" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
@@ -96,9 +97,9 @@ JSON         5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src="./public/icons/skills/tamagui.svg" title="TamagUI" alt="TamagUI" width="40" height="40"/>&nbsp;
   <img src="./public/icons/skills/handlebars-original.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
   <img src="./public/icons/skills/v8-original.svg" title="V8" alt="V8" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-
-  <p><strong>Backend, Database, and API Technologies</strong></p>
+  <img src="./public/icons/skills/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
+  </br></br>
+  <p><strong>Backend, Database, and API Technologies</strong></p></br>
   <img src="./public/icons/skills/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="./public/icons/skills/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="./public/icons/skills/denojs-original-wordmark.svg" width="36" height="36" alt="Deno" title="Deno" />
@@ -115,9 +116,9 @@ JSON         5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src="./public/icons/skills/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>&nbsp;
   <img src="./public/icons/skills/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="40" height="40"/>&nbsp;
   <img src="./public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="NestJS"/>
-  <img src="./public/icons/skills/graphql-shield.svg" width="40" height="40" alt="GraphQL Shield" title="GraphQL Shield"/>&nbsp;
-
-  <p><strong>DevOps, Cloud, and Infrastructure</strong></p>
+  <img src="./public/icons/skills/graphql-shield.svg" width="40" height="40" alt="GraphQL Shield" title="GraphQL Shield"/>
+  </br></br>
+  <p><strong>DevOps, Cloud, and Infrastructure</strong></p></br>
   <img src="./public/icons/skills/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="./public/icons/skills/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="./public/icons/skills/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
@@ -130,11 +131,11 @@ JSON         5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src="./public/icons/skills/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="./public/icons/skills/railway-original.svg" title="Railway" alt="Railway" width="40" height="40"/>&nbsp;
   <img src="./public/icons/skills/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="40" height="40"/>&nbsp;
-
-  </br>
+  </br></br>
   <details>
     <summary>More Tools and Technologies</summary>
-    <p><strong>CI/CD, Testing, and Version Control</strong></p>
+    </br>
+    <p><strong>CI/CD, Testing, and Version Control</strong></p></br>
     <img src="./public/icons/skills/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills//gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
@@ -150,15 +151,17 @@ JSON         5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="./public/icons/skills/expo.png" title="Expo & EAS" alt="Expo & EAS" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/circleci-plain.svg" title="CircleCI" alt="CircleCI" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/bitrise.svg" title="Bitrise" alt="Bitrise" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/codecov-plain.svg" title="Codecov" alt="Codecov" width="40" height="40"/>&nbsp;
-    <p><strong>Real-time, Security, and Performance Monitoring</strong></p>
+    <img src="./public/icons/skills/codecov-plain.svg" title="Codecov" alt="Codecov" width="40" height="40"/>
+    </br></br>
+    <p><strong>Real-time, Security, and Performance Monitoring</strong></p></br>
     <img src="./public/icons/skills/socketio-original.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/oauth-original.svg" title="OAuth" alt="OAuth" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/jwt.svg" title="JWT (JSON Web Tokens)" alt="JWT (JSON Web Tokens)" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/sentry-original.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/datadog.svg" title="Datadog" alt="Datadog" width="40" height="40"/>&nbsp;
-    <p><strong>Frontend Build Tools and Static Site Generators</strong></p>
+    <img src="./public/icons/skills/datadog.svg" title="Datadog" alt="Datadog" width="40" height="40"/>
+    </br></br>
+    <p><strong>Frontend Build Tools and Static Site Generators</strong></p></br>
     <img src="./public/icons/skills/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/rollup-original.svg" title="Rollup" alt="Rollup" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
@@ -169,8 +172,9 @@ JSON         5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="./public/icons/skills/nuxtjs-colored.svg" title="NuxtJs" alt="NuxtJs" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/eleventy-original.svg" title="Eleventy" alt="Eleventy" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/jamstack-original.svg" title="Jamstack" alt="Jamstack" width="40" height="40"/>&nbsp;
-    <p><strong>And some more tools</strong></p>
+    <img src="./public/icons/skills/jamstack-original.svg" title="Jamstack" alt="Jamstack" width="40" height="40"/>
+    </br></br>
+    <p><strong>And some more tools</strong></p></br>
     <img src="./public/icons/skills/bower-original.svg" title="Bower" alt="Bower" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/browserstack-original.svg" title="BrowserStack" alt="BrowserStack" width="40" height="40"/>&nbsp;
@@ -200,7 +204,7 @@ JSON         5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="./public/icons/skills/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp; 
     <img src="./public/icons/skills/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   </details>
-</div>
+</div></br></br>
 
 ## ⚙️ What I'm working on
 
