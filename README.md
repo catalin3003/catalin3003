@@ -32,10 +32,10 @@ I'm a Senior React Native and React Engineer, as well as an Engineering Leader, 
   <a href="https://www.x.com/catapps" target="_blank" rel="noreferrer">
     <img src="./public/icons/socials/twitter-dark.svg" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/catalin-magirescu" target="_blank" rel="noreferrer">
+  <a href="https://iamcat.co.uk" target="_blank" rel="noreferrer">
     <img src="./public/images/cat_thumb_s.jpg" width="40" height="40" />
   </a>
-  <a href="https://iamcat.co.uk" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/catalin-magirescu" target="_blank" rel="noreferrer">
     <img src="./public/icons/socials/linkedin.svg" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mentorcruise.com/mentor/catalinmagirescu/" target="_blank" rel="noreferrer">
