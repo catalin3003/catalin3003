@@ -168,7 +168,6 @@ JSON         5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="./public/icons/skills/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/jekyll-original.svg" title="Jekyll" alt="Jekyll" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/hugo-original.svg" title="Hugo" alt="Hugo" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/nuxtjs-colored.svg" title="NuxtJs" alt="NuxtJs" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/eleventy-original.svg" title="Eleventy" alt="Eleventy" width="40" height="40"/>&nbsp;
     <img src="./public/icons/skills/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
