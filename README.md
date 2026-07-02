@@ -1,51 +1,13 @@
 # 👋 Hi there, I'm Cat 🐈
 
-I'm a Senior React Native and React Engineer, as well as an Engineering Leader, with a passion for developing scalable and robust applications. My expertise in leading cross-functional teams has enabled me to turn complex challenges into seamless, user-friendly solutions, making a significant impact in the tech for good and sustainability sectors.
+I'm a AI-Native Tech Lead, as well as how you'd call in in the "old" day, Tech Lead with focus on FE, with a passion for developing scalable and robust AI-Native applications. My expertise in leading cross-functional teams has enabled me to turn complex challenges into seamless, user-friendly solutions, making a significant impact in the tech for good and sustainability sectors.
 
-- 🔭 I’m currently working on enhancing mobile and web solutions for the tech for good and sustainability sectors, with a special focus on [🌱 Plantopia Farm](https://plantopia.farm), a project I'm incredibly proud of for its potential to revolutionize urban agriculture.
-- 🌱 I’m constantly learning and staying updated with the latest in React, React Native, Node.js, and NextJS.
-- 👯 I’m looking to collaborate on innovative projects that make a difference.
-- 🤔 I’m looking for help with exploring advanced architectural patterns.
-- 💬 Ask me about anything related to React/React Native development, project management, or team leadership.
-- 📫 How to reach me: <cat@catcodes.com>
+- 🌱 Main FE: React, React Native, Node.js, and NextJS.
+- 📫 How to reach me: [Lucasia](https://lucasia.ai)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I'm probably DIY-ing something around the house or exploring urban agriculture innovations.
 
-## Connect with me
-
-<p align="left">
-  <a href="https://catapps.co.uk" target="_blank" rel="noreferrer">
-    <img src="./public/icons/skills/catapps.svg" title="Cat Apps" alt="Cat Apps" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://linkedin.com/company/catapps" target="_blank" rel="noreferrer">
-    <img src="./public/icons/socials/linkedin-dark.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.facebook.com/catapps.co.uk" target="_blank" rel="noreferrer">
-    <img src="./public/icons/socials/facebook-dark.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.github.com/cat-apps" target="_blank" rel="noreferrer">
-    <img src="./public/icons/socials/github-dark.svg" width="40" height="40" />
-  </a>
-  <a href="http://www.instagram.com/cat-apps" target="_blank" rel="noreferrer">
-    <img src="./public/icons/socials/instagram-dark.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.x.com/catapps" target="_blank" rel="noreferrer">
-    <img src="./public/icons/socials/twitter-dark.svg" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://iamcat.co.uk" target="_blank" rel="noreferrer">
-    <img src="./public/images/cat_thumb_s.jpg" width="40" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/catalin-magirescu" target="_blank" rel="noreferrer">
-    <img src="./public/icons/socials/linkedin.svg" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mentorcruise.com/mentor/catalinmagirescu/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="20%" alt="MentorCruise Banner">
-  </a>
-  <!-- <a href="https://mentorcruise.com/mentor/catalinmagirescu/" target="_blank" rel="noreferrer">
-    <img src="https://mentorcruise.com/mentor/catalinmagirescu/widget/" loading="lazy" width="16%" alt="MentorCruise Stats">
-  </a> -->
-  </br></br>
-
+## Whatever is next clearly needs updating... no time ... eventually :)
 ## :octocat: My GitHub Stats
 
 <div align="center">
@@ -207,17 +169,11 @@ Java                       87 hrs 40 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## ⚙️ What I'm working on
 
-I'm deeply committed to creating scalable solutions for the tech for good and sustainability sectors, with [🌱 Plantopia Farm](https://plantopia.farm) being a cornerstone project in my portfolio. This initiative is not just a project; it's a testament to how technology can be harnessed to make significant strides in sustainable living and urban agriculture. My work with [😻 Cat Apps](https://catapps.co.uk) [:octocat:](https://github.com/Cat-Apps) is aimed at leveraging cutting-edge technology to revolutionize various sectors, integrating advanced technology with everyday needs, and making a tangible difference in the world.
-
-<img src="./public/images/wow_s.jpg" title="Android Studio" alt="Android Studio" width="100%"/>&nbsp;
-
-## 👀 Looking forward
-
-I'm always on the lookout for new challenges and opportunities to grow. My journey is about more than just developing new software solutions; it's about leading teams to success, contributing to the tech community, and making a lasting impact through innovation and strategic execution.
+PRIVATE ;)
 
 ---
 
-Thanks for stopping by! Feel free to reach out if you have any questions or just want to connect.
+Thanks for stopping by!
 
 ## 😹 Enjoy joke of the day
 
