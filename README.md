@@ -19,9 +19,9 @@ I build calm, automated software for ambitious businesses, and the AI engineerin
 ## Last 30 days
 
 <!--START_SECTION:stats-->
-<!--stats-data {"prs":1077,"lines":2678254,"tokens":null,"languages":[{"name":"TypeScript","pct":73.4},{"name":"HTML","pct":11.7},{"name":"PLpgSQL","pct":5.1},{"name":"JavaScript","pct":4.1},{"name":"CSS","pct":3.9},{"name":"Shell","pct":0.9}],"updated":"1 Nov 2026"} -->
+<!--stats-data {"prs":1078,"lines":2678260,"tokens":null,"languages":[{"name":"TypeScript","pct":73.4},{"name":"HTML","pct":11.7},{"name":"PLpgSQL","pct":5.1},{"name":"JavaScript","pct":4.1},{"name":"CSS","pct":3.9},{"name":"Shell","pct":0.9}],"updated":"1 Nov 2026"} -->
 <p align="center">
-  <img alt="PRs merged: 1,077" src="https://img.shields.io/badge/PRs_merged-1%2C077-0b5cad?style=for-the-badge">
+  <img alt="PRs merged: 1,078" src="https://img.shields.io/badge/PRs_merged-1%2C078-0b5cad?style=for-the-badge">
   <img alt="Lines changed: 2.7M" src="https://img.shields.io/badge/Lines_changed-2.7M-0b5cad?style=for-the-badge">
 </p>
 <p align="center">
