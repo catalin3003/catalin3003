@@ -1,187 +1,61 @@
-# 👋 Hi there, I'm Cat 🐈
-
-I'm a AI-Native Tech Lead, as well as how you'd call in in the "old" day, Tech Lead with focus on FE, with a passion for developing scalable and robust AI-Native applications. My expertise in leading cross-functional teams has enabled me to turn complex challenges into seamless, user-friendly solutions, making a significant impact in the tech for good and sustainability sectors.
-
-- 🌱 Main FE: React, React Native, Node.js, and NextJS.
-- 📫 How to reach me: [Lucasia](https://lucasia.ai)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not coding, I'm probably DIY-ing something around the house or exploring urban agriculture innovations.
-
-## Whatever is next clearly needs updating... no time ... eventually :)
-## :octocat: My GitHub Stats
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catalin3003/gh-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview">
-  <img src="https://raw.githubusercontent.com/catalin3003/gh-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Language Stats">
-  
-  <img src="https://streak-stats.demolab.com?user=catalin3003&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D&card_width=716" alt="GitHub Streak Stats">
+
+# Catalin Magirescu
+
+**AI-native tech lead. Founder of Lucasia.**
+
+I build calm, automated software for ambitious businesses, and the AI engineering platform that ships it.
+
+<a href="https://lucasia.ai"><img alt="Visit lucasia.ai" src="https://img.shields.io/badge/lucasia.ai-Visit_the_website-0b5cad?style=for-the-badge"></a>
+<a href="https://lucasia.one"><img alt="Visit Lucasia ONE" src="https://img.shields.io/badge/Lucasia_ONE-Run_your_business-0b5cad?style=for-the-badge"></a>
+<a href="https://status.lucasia.ai"><img alt="Service status" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstatus.lucasia.ai%2Fapi%2Fstatus&query=%24.overall&label=Status&style=for-the-badge&color=0b5cad"></a>
+
+<a href="https://lucasia.ai/accessibility"><img alt="Accessibility: WCAG 2.2 AAA" src="https://img.shields.io/badge/Accessibility-WCAG_2.2_AAA-1a7f37?style=flat-square"></a>
+<img alt="Based in the UK" src="https://img.shields.io/badge/Based_in-the_UK-30363d?style=flat-square">
+<img alt="Speaks English and Romanian" src="https://img.shields.io/badge/Speaks-English_%C2%B7_Romanian-30363d?style=flat-square">
+
 </div>
 
-<!--START_SECTION:waka-->
+## Last 30 days
 
-```txt
-Total Time: 2,753 hrs 58 mins
+<!--START_SECTION:stats-->
+<!--stats-data {"prs":1045,"lines":2655275,"tokens":null,"languages":[{"name":"TypeScript","pct":76},{"name":"HTML","pct":7.4},{"name":"PLpgSQL","pct":5.6},{"name":"CSS","pct":4.5},{"name":"JavaScript","pct":4.3},{"name":"Shell","pct":0.9}],"updated":"1 Nov 2026"} -->
+<p align="center">
+  <img alt="PRs merged: 1,045" src="https://img.shields.io/badge/PRs_merged-1%2C045-0b5cad?style=for-the-badge">
+  <img alt="Lines changed: 2.7M" src="https://img.shields.io/badge/Lines_changed-2.7M-0b5cad?style=for-the-badge">
+</p>
+<p align="center">
+  <img alt="TypeScript: 76%" src="https://img.shields.io/badge/TypeScript-76%25-30363d?style=flat-square">
+  <img alt="HTML: 7.4%" src="https://img.shields.io/badge/HTML-7.4%25-30363d?style=flat-square">
+  <img alt="PLpgSQL: 5.6%" src="https://img.shields.io/badge/PLpgSQL-5.6%25-30363d?style=flat-square">
+  <img alt="CSS: 4.5%" src="https://img.shields.io/badge/CSS-4.5%25-30363d?style=flat-square">
+  <img alt="JavaScript: 4.3%" src="https://img.shields.io/badge/JavaScript-4.3%25-30363d?style=flat-square">
+  <img alt="Shell: 0.9%" src="https://img.shields.io/badge/Shell-0.9%25-30363d?style=flat-square">
+</p>
+<p align="center"><sub>Last 30 days, updated 1 Nov 2026 (UK). Totals only, client work excluded.</sub></p>
+<!--END_SECTION:stats-->
 
-Other                      960 hrs 33 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.88 %
-TypeScript                 866 hrs 31 mins       ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.46 %
-JSON                       293 hrs 18 mins       ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.65 %
-CSS                        210 hrs 16 mins       ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.64 %
-Markdown                   108 hrs 45 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.95 %
-```
+## What I am building
 
-<!--END_SECTION:waka-->
+- **[Lucasia ONE](https://lucasia.one)**: one place to run your business, with automation doing the routine work.
+- **[Lucasia](https://lucasia.ai)**: websites, apps and AI agent platforms for growing teams, delivered with a proper engineering process.
+- **[Service status](https://status.lucasia.ai)**: live uptime for every Lucasia system, open to everyone.
 
-## 🛠️ Languages and Tools
+## How I work
 
-<div align="center">
-  <p><strong>Core Web and Scripting Technologies</strong></p></br>
-  <img src="./public/icons/skills/catapps.svg" title="Cat Apps" alt="Cat Apps" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/react-native.png" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/reactrouter-original.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/reactnavigation-original.svg" title="React Navigation" alt="React Navigation" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/reactbootstrap-original.svg" title="React Bootstrap" alt="React Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/typescript-colored.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/less-plain-wordmark.svg" title="Less" alt="Less" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/styled-components.png" title="Styled Components" alt="Styled Components" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/tamagui.svg" title="TamagUI" alt="TamagUI" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/handlebars-original.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/v8-original.svg" title="V8" alt="V8" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
-  </br></br>
-  <p><strong>Backend, Database, and API Technologies</strong></p></br>
-  <img src="./public/icons/skills/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/denojs-original-wordmark.svg" width="36" height="36" alt="Deno" title="Deno" />
-  <img src="./public/icons/skills/fresh.svg" width="36" height="36" alt="Fresh" title="Fresh" />
-  <img src="./public/icons/skills/tanstack.png" title="TanStack" alt="TanStack" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="./public/icons/skills/mariadb-original.svg" width="36" height="36" alt="MariaDB" title="MariaDB" />
-  <img src="./public/icons/skills/graphql-colored.svg" width="40" height="40" alt="GraphQL" title="GraphQL"/>&nbsp;
-  <img src="./public/icons/skills/axios-plain.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/json-original.svg" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="NestJS"/>
-  <img src="./public/icons/skills/graphql-shield.svg" width="40" height="40" alt="GraphQL Shield" title="GraphQL Shield"/>
-  </br></br>
-  <p><strong>DevOps, Cloud, and Infrastructure</strong></p></br>
-  <img src="./public/icons/skills/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/digitalocean-original.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/railway-original.svg" title="Railway" alt="Railway" width="40" height="40"/>&nbsp;
-  <img src="./public/icons/skills/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="40" height="40"/>&nbsp;
-  </br></br>
-  <details>
-    <summary>More Tools and Technologies</summary>
-    </br>
-    <p><strong>CI/CD, Testing, and Version Control</strong></p></br>
-    <img src="./public/icons/skills/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills//gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/mocha-plain.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/jasmine-original.svg" title="Jasmine" alt="Jasmine" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/detox.png" title="Detox" alt="Detox" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/appium.png" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/expo.png" title="Expo & EAS" alt="Expo & EAS" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/circleci-plain.svg" title="CircleCI" alt="CircleCI" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/bitrise.svg" title="Bitrise" alt="Bitrise" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/codecov-plain.svg" title="Codecov" alt="Codecov" width="40" height="40"/>
-    </br></br>
-    <p><strong>Real-time, Security, and Performance Monitoring</strong></p></br>
-    <img src="./public/icons/skills/socketio-original.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/oauth-original.svg" title="OAuth" alt="OAuth" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/jwt.svg" title="JWT (JSON Web Tokens)" alt="JWT (JSON Web Tokens)" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/sentry-original.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/datadog.svg" title="Datadog" alt="Datadog" width="40" height="40"/>
-    </br></br>
-    <p><strong>Frontend Build Tools and Static Site Generators</strong></p></br>
-    <img src="./public/icons/skills/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/rollup-original.svg" title="Rollup" alt="Rollup" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/jekyll-original.svg" title="Jekyll" alt="Jekyll" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/hugo-original.svg" title="Hugo" alt="Hugo" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/nuxtjs-colored.svg" title="NuxtJs" alt="NuxtJs" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/eleventy-original.svg" title="Eleventy" alt="Eleventy" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/jamstack-original.svg" title="Jamstack" alt="Jamstack" width="40" height="40"/>
-    </br></br>
-    <p><strong>And some more tools</strong></p></br>
-    <img src="./public/icons/skills/bower-original.svg" title="Bower" alt="Bower" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/browserstack-original.svg" title="BrowserStack" alt="BrowserStack" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/corejs-original.svg" title="CoreJS" alt="CoreJS" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/d3js-original.svg" title="D3.js" alt="D3.js" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/threejs-original.svg" title="Three.js" alt="Three.js" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp; 
-    <img src="./public/icons/skills/sanity-original.svg" title="Sanity" alt="Sanity" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/sketch-original.svg" title="Sketch" alt="Sketch" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/ionic-original.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/nano-original.svg" title="Nano" alt="Nano" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/chatgpt.svg" title="OpenAI" alt="OpenAI" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/macos-colored.svg" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
-    <img src="./public/icons/skills/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp; 
-    <img src="./public/icons/skills/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  </details>
-</div></br></br>
+Tested changes shipped every day. Accessible by default, with WCAG 2.2 AAA as the target. Every change reviewed before it merges.
 
-## ⚙️ What I'm working on
+## Stack
 
-PRIVATE ;)
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-30363d?style=flat-square&logo=typescript&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=white">
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-30363d?style=flat-square&logo=react&logoColor=white">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-30363d?style=flat-square&logo=nodedotjs&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=white">
+<img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-30363d?style=flat-square&logo=cloudflare&logoColor=white">
+<img alt="Claude" src="https://img.shields.io/badge/Claude-30363d?style=flat-square&logo=anthropic&logoColor=white">
+
 
 ---
 
-Thanks for stopping by!
-
-## 😹 Enjoy joke of the day
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
-</p>
-
-<p align="center">
-  You're not just another visitor, you're the special one with this unique profile view number: </br>
-  <img src="https://profile-counter.glitch.me/catalin3003/count.svg" alt="Profile View Count">
-</p>
+<p align="center">Want to work together? Start at <a href="https://lucasia.ai/contact">lucasia.ai/contact</a>.</p>
