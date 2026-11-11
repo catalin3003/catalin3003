@@ -19,11 +19,11 @@ I build calm, automated software for ambitious businesses, and the AI engineerin
 ## Last 30 days
 
 <!--START_SECTION:stats-->
-<!--stats-data {"prs":1098,"lines":2701498,"tokens":18279713237,"languages":[{"name":"TypeScript","pct":68.1},{"name":"HTML","pct":16.1},{"name":"JavaScript","pct":5.1},{"name":"PLpgSQL","pct":5.1},{"name":"CSS","pct":3.4},{"name":"Shell","pct":0.9}],"updated":"10 Nov 2026"} -->
+<!--stats-data {"prs":1098,"lines":2701498,"tokens":18867006678,"languages":[{"name":"TypeScript","pct":68.1},{"name":"HTML","pct":16.1},{"name":"JavaScript","pct":5.1},{"name":"PLpgSQL","pct":5.1},{"name":"CSS","pct":3.4},{"name":"Shell","pct":0.9}],"updated":"11 Nov 2026"} -->
 <p align="center">
   <img alt="PRs merged: 1,098" src="https://img.shields.io/badge/PRs_merged-1%2C098-0b5cad?style=for-the-badge">
   <img alt="Lines changed: 2.7M" src="https://img.shields.io/badge/Lines_changed-2.7M-0b5cad?style=for-the-badge">
-  <img alt="AI tokens: 18.3B" src="https://img.shields.io/badge/AI_tokens-18.3B-0b5cad?style=for-the-badge">
+  <img alt="AI tokens: 18.9B" src="https://img.shields.io/badge/AI_tokens-18.9B-0b5cad?style=for-the-badge">
 </p>
 <p align="center">
   <img alt="TypeScript: 68.1%" src="https://img.shields.io/badge/TypeScript-68.1%25-30363d?style=flat-square">
@@ -33,7 +33,7 @@ I build calm, automated software for ambitious businesses, and the AI engineerin
   <img alt="CSS: 3.4%" src="https://img.shields.io/badge/CSS-3.4%25-30363d?style=flat-square">
   <img alt="Shell: 0.9%" src="https://img.shields.io/badge/Shell-0.9%25-30363d?style=flat-square">
 </p>
-<p align="center"><sub>Last 30 days, updated 10 Nov 2026 (UK). Totals only, client work excluded.</sub></p>
+<p align="center"><sub>Last 30 days, updated 11 Nov 2026 (UK). Totals only, client work excluded.</sub></p>
 <!--END_SECTION:stats-->
 
 ## What I am building
