@@ -40,6 +40,7 @@ I build calm, automated software for ambitious businesses, and the AI engineerin
 
 - **[Lucasia ONE](https://lucasia.one)**: one place to run your business, with automation doing the routine work.
 - **[Lucasia](https://lucasia.ai)**: websites, apps and AI agent platforms for growing teams, delivered with a proper engineering process.
+- **[Versimo](https://versimo.dev)**: every module runs last, current and next, with no staging and automatic rollback. Open source on [GitHub](https://github.com/luca-sia/versimo).
 - **[Service status](https://status.lucasia.ai)**: live uptime for every Lucasia system, open to everyone.
 
 ## How I work
