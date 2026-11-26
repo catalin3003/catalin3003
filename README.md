@@ -19,21 +19,21 @@ I build calm, automated software for ambitious businesses, and the AI engineerin
 ## Last 30 days
 
 <!--START_SECTION:stats-->
-<!--stats-data {"prs":1032,"lines":3244587,"tokens":24492359485,"languages":[{"name":"TypeScript","pct":72},{"name":"HTML","pct":12.2},{"name":"JavaScript","pct":6.3},{"name":"PLpgSQL","pct":3.9},{"name":"CSS","pct":2.6},{"name":"Shell","pct":1.2}],"updated":"25 Nov 2026"} -->
+<!--stats-data {"prs":1061,"lines":3146967,"tokens":24271615933,"languages":[{"name":"TypeScript","pct":72.1},{"name":"HTML","pct":12.3},{"name":"JavaScript","pct":6.3},{"name":"PLpgSQL","pct":3.9},{"name":"CSS","pct":2.6},{"name":"Shell","pct":1.2}],"updated":"26 Nov 2026"} -->
 <p align="center">
-  <img alt="PRs merged: 1,032" src="https://img.shields.io/badge/PRs_merged-1%2C032-0b5cad?style=for-the-badge">
-  <img alt="Lines changed: 3.2M" src="https://img.shields.io/badge/Lines_changed-3.2M-0b5cad?style=for-the-badge">
-  <img alt="AI tokens: 24.5B" src="https://img.shields.io/badge/AI_tokens-24.5B-0b5cad?style=for-the-badge">
+  <img alt="PRs merged: 1,061" src="https://img.shields.io/badge/PRs_merged-1%2C061-0b5cad?style=for-the-badge">
+  <img alt="Lines changed: 3.1M" src="https://img.shields.io/badge/Lines_changed-3.1M-0b5cad?style=for-the-badge">
+  <img alt="AI tokens: 24.3B" src="https://img.shields.io/badge/AI_tokens-24.3B-0b5cad?style=for-the-badge">
 </p>
 <p align="center">
-  <img alt="TypeScript: 72%" src="https://img.shields.io/badge/TypeScript-72%25-30363d?style=flat-square">
-  <img alt="HTML: 12.2%" src="https://img.shields.io/badge/HTML-12.2%25-30363d?style=flat-square">
+  <img alt="TypeScript: 72.1%" src="https://img.shields.io/badge/TypeScript-72.1%25-30363d?style=flat-square">
+  <img alt="HTML: 12.3%" src="https://img.shields.io/badge/HTML-12.3%25-30363d?style=flat-square">
   <img alt="JavaScript: 6.3%" src="https://img.shields.io/badge/JavaScript-6.3%25-30363d?style=flat-square">
   <img alt="PLpgSQL: 3.9%" src="https://img.shields.io/badge/PLpgSQL-3.9%25-30363d?style=flat-square">
   <img alt="CSS: 2.6%" src="https://img.shields.io/badge/CSS-2.6%25-30363d?style=flat-square">
   <img alt="Shell: 1.2%" src="https://img.shields.io/badge/Shell-1.2%25-30363d?style=flat-square">
 </p>
-<p align="center"><sub>Last 30 days, updated 25 Nov 2026 (UK). Totals only, client work excluded.</sub></p>
+<p align="center"><sub>Last 30 days, updated 26 Nov 2026 (UK). Totals only, client work excluded.</sub></p>
 <!--END_SECTION:stats-->
 
 ## What I am building
